@@ -43,9 +43,4 @@ The application follows strict software engineering principles, separating the U
 
 ## 🚀 Installation & Setup
 
-Currently, GHOSTEX runs directly from the Python source code. Follow these steps to run it locally on your machine:
-
-**1. Clone the repository**
-```bash
-git clone [https://github.com/YourUsername/GHOSTEX.git](https://github.com/YourUsername/GHOSTEX.git)
-cd GHOSTEX
+Currently, GHOSTEX runs directly from the Python source code.
